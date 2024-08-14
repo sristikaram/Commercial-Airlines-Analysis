@@ -10,11 +10,11 @@ In the process of selecting our datasets, we searched for information relevant t
 Dataset 1: Air Carrier Statistics (CSV File)
 The data contains details on the availability of seats on each flight. Along with that, the dataset contains variables such as aircraft type, service class, scheduled and performed departures. These variables will allow us to identify specific factors that contribute to an optimal load factor. The relationship between these factors and the load factor will allow us to determine the efficiency and reliability of an airline's operations, which directly impacts revenue. 
 
-Dataset 2: Revenue and Financial Data of Delta (HTML)
-The dataset contains financial information of Delta by year along with the passenger load factor. This will help to analyze the relationship between overbooked flights and the total revenue of the company. It will enable us to determine the impact of load factor on the financial performance of a company. 
-
-Dataset 3: Los Angeles International Airport - Passenger Count By Carrier (JSON)
+Dataset 2: Los Angeles International Airport - Passenger Count By Carrier (JSON)
 The dataset provides passenger counts for different airport carriers operating at LAX. The data will provide a focus on passenger volumes for the different airlines. This will allow us to evaluate their performance in relation to this data. The dataset will help to validate if the observed trend between load factor and revenue holds in a major airport hub such as LAX.
+
+Dataset 3: Revenue and Financial Data of Delta (HTML)
+The dataset contains financial information of Delta by year along with the passenger load factor. This will help to analyze the relationship between overbooked flights and the total revenue of the company. It will enable us to determine the impact of load factor on the financial performance of a company. 
 
 Dataset 4: Load Factor (passenger-miles as a proportion of available seat-miles in percent (%))
 This dataset includes the load factor for all U.S. carriers across all airports. Load factor is a key performance indicator that measures the percentage of available seating capacity that is actually filled with passengers. This data will be used to determine the efficiency of airline operations in terms of seat utilization. The load factor is a critical variable for testing our hypothesis.
